@@ -3,51 +3,74 @@ name: Update README Wallpaper Preview
 on:
   push:
     paths:
-      - "**.jpg"
-      - "**.png"
-      - "**.jpeg"
+      - "*.jpg"
+      - "*.jpeg"
+      - "*.png"
       - "README.md"
-      - ".github/workflows/update-wallpaper-preview.yml"
+
+permissions:
+  contents: write
 
 jobs:
-  generate:
+  update-preview:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Build gallery Markdown
+      - name: Generate preview HTML
         run: |
-          # create temp file
-          echo "" > preview.md
-          echo "<table>" >> preview.md
-
+          echo "<table>" > preview.html
           count=0
+
           for img in *.jpg *.jpeg *.png; do
             [ -e "$img" ] || continue
+
             if [ $((count % 3)) -eq 0 ]; then
-              echo "<tr>" >> preview.md
+              echo "<tr>" >> preview.html
             fi
-            echo "<td align=\"center\"><img src=\"$img\" width=\"300\"></td>" >> preview.md
+
+            echo "<td align=\"center\">
+            <a href=\"$img\">
+              <img src=\"$img\" width=\"300\">
+            </a>
+            </td>" >> preview.html
+
             if [ $((count % 3)) -eq 2 ]; then
-              echo "</tr>" >> preview.md
+              echo "</tr>" >> preview.html
             fi
+
             count=$((count + 1))
           done
 
-          echo "</table>" >> preview.md
+          echo "</table>" >> preview.html
 
-          # replace between markers
-          sed -i '/<!-- WALLPAPER_PREVIEW_START -->/,/<!-- WALLPAPER_PREVIEW_END -->/c\
-<!-- WALLPAPER_PREVIEW_START -->\
-'"$(sed -e 's/[\/&]/\\&/g' preview.md)"'\
-<!-- WALLPAPER_PREVIEW_END -->' README.md
+      - name: Update README
+        run: |
+          awk '
+          BEGIN {found=0}
+          /<!-- WALLPAPER_PREVIEW_START -->/ {
+            print;
+            system("cat preview.html");
+            found=1;
+            next
+          }
+          /<!-- WALLPAPER_PREVIEW_END -->/ {
+            found=0;
+            print;
+            next
+          }
+          !found {print}
+          ' README.md > README.tmp
 
-      - name: Commit and push
+          mv README.tmp README.md
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "ci: update wallpaper previews" || exit 0
+          git commit -m "ci: update wallpaper preview" || exit 0
           git push
 
