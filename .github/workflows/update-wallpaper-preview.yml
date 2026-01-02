@@ -3,9 +3,7 @@ name: Update README Wallpaper Preview
 on:
   push:
     paths:
-      - "*.jpg"
-      - "*.jpeg"
-      - "*.png"
+      - "Wallpapers/**"
       - "README.md"
 
 permissions:
@@ -24,7 +22,7 @@ jobs:
           echo "<table>" > preview.html
           count=0
 
-          for img in *.jpg *.jpeg *.png; do
+          for img in Wallpapers/*.jpg Wallpapers/*.jpeg Wallpapers/*.png; do
             [ -e "$img" ] || continue
 
             if [ $((count % 3)) -eq 0 ]; then
