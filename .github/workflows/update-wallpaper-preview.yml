@@ -1,0 +1,53 @@
+name: Update README Wallpaper Preview
+
+on:
+  push:
+    paths:
+      - "**.jpg"
+      - "**.png"
+      - "**.jpeg"
+      - "README.md"
+      - ".github/workflows/update-wallpaper-preview.yml"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build gallery Markdown
+        run: |
+          # create temp file
+          echo "" > preview.md
+          echo "<table>" >> preview.md
+
+          count=0
+          for img in *.jpg *.jpeg *.png; do
+            [ -e "$img" ] || continue
+            if [ $((count % 3)) -eq 0 ]; then
+              echo "<tr>" >> preview.md
+            fi
+            echo "<td align=\"center\"><img src=\"$img\" width=\"300\"></td>" >> preview.md
+            if [ $((count % 3)) -eq 2 ]; then
+              echo "</tr>" >> preview.md
+            fi
+            count=$((count + 1))
+          done
+
+          echo "</table>" >> preview.md
+
+          # replace between markers
+          sed -i '/<!-- WALLPAPER_PREVIEW_START -->/,/<!-- WALLPAPER_PREVIEW_END -->/c\
+<!-- WALLPAPER_PREVIEW_START -->\
+'"$(sed -e 's/[\/&]/\\&/g' preview.md)"'\
+<!-- WALLPAPER_PREVIEW_END -->' README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "ci: update wallpaper previews" || exit 0
+          git push
+
