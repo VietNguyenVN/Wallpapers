@@ -188,6 +188,18 @@ Feel free to browse, download, or use them as inspiration.
   </a>
   </td>
 <td align="center">
+  <a href="Wallpapers/wallhaven-xeeomd.jpg">
+    <img src="Wallpapers/wallhaven-xeeomd.jpg" width="300">
+  </a>
+  </td>
+<td align="center">
+  <a href="Wallpapers/wallhaven-zppegj.jpg">
+    <img src="Wallpapers/wallhaven-zppegj.jpg" width="300">
+  </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
   <a href="Wallpapers/wallpaperflare.com_wallpaper.jpg">
     <img src="Wallpapers/wallpaperflare.com_wallpaper.jpg" width="300">
   </a>
@@ -197,13 +209,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/wallpapersden.com_persona-5-royal-4k-minimal_3840x2160.jpg" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/your-name-shooting-3840x2160-14938.jpg">
     <img src="Wallpapers/your-name-shooting-3840x2160-14938.jpg" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/1364253.jpeg">
     <img src="Wallpapers/1364253.jpeg" width="300">
@@ -214,13 +226,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/1350953.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/1356882.png">
     <img src="Wallpapers/1356882.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/1433918-anime-forest-hd-wallpaper-and-background.png">
     <img src="Wallpapers/1433918-anime-forest-hd-wallpaper-and-background.png" width="300">
@@ -231,13 +243,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/aurora_borealis.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/coding-2.png">
     <img src="Wallpapers/coding-2.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/evening_sky.png">
     <img src="Wallpapers/evening_sky.png" width="300">
@@ -248,13 +260,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/extra-22.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/image4.png">
     <img src="Wallpapers/image4.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/inkgirl.png">
     <img src="Wallpapers/inkgirl.png" width="300">
@@ -265,13 +277,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/m23bwh4n0x151.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/moments_before_desk.png">
     <img src="Wallpapers/moments_before_desk.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/neo2.png">
     <img src="Wallpapers/neo2.png" width="300">
@@ -282,13 +294,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/ocean_with_cloud.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/od_bash.png">
     <img src="Wallpapers/od_bash.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/t567zuzuvi271.png">
     <img src="Wallpapers/t567zuzuvi271.png" width="300">
@@ -299,13 +311,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/wallhaven-21ydwg_1920x1080.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/wallhaven-3q9qky.png">
     <img src="Wallpapers/wallhaven-3q9qky.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/wallhaven-9omr8k.png">
     <img src="Wallpapers/wallhaven-9omr8k.png" width="300">
@@ -316,13 +328,12 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/wallhaven-je8vlm-colorized.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/wallhaven-qr25vl.png">
     <img src="Wallpapers/wallhaven-qr25vl.png" width="300">
   </a>
   </td>
+</tr>
 </table>
 <!-- WALLPAPER_PREVIEW_END -->
 
