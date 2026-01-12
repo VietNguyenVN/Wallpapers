@@ -285,6 +285,11 @@ Feel free to browse, download, or use them as inspiration.
 </tr>
 <tr>
 <td align="center">
+  <a href="Wallpapers/0246.jpeg">
+    <img src="Wallpapers/0246.jpeg" width="300">
+  </a>
+  </td>
+<td align="center">
   <a href="Wallpapers/0021.png">
     <img src="Wallpapers/0021.png" width="300">
   </a>
@@ -294,13 +299,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0074.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0131.png">
     <img src="Wallpapers/0131.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0132.png">
     <img src="Wallpapers/0132.png" width="300">
@@ -311,13 +316,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0134.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0141.png">
     <img src="Wallpapers/0141.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0143.png">
     <img src="Wallpapers/0143.png" width="300">
@@ -328,13 +333,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0145.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0146.png">
     <img src="Wallpapers/0146.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0149.png">
     <img src="Wallpapers/0149.png" width="300">
@@ -345,13 +350,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0151.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0154.png">
     <img src="Wallpapers/0154.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0155.png">
     <img src="Wallpapers/0155.png" width="300">
@@ -362,13 +367,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0156.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0158.png">
     <img src="Wallpapers/0158.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0159.png">
     <img src="Wallpapers/0159.png" width="300">
@@ -379,13 +384,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0165.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0170.png">
     <img src="Wallpapers/0170.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0171.png">
     <img src="Wallpapers/0171.png" width="300">
@@ -396,13 +401,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0174.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0175.png">
     <img src="Wallpapers/0175.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0176.png">
     <img src="Wallpapers/0176.png" width="300">
@@ -413,13 +418,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0179.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0185.png">
     <img src="Wallpapers/0185.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0246.png">
     <img src="Wallpapers/0246.png" width="300">
