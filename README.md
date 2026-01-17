@@ -239,8 +239,25 @@ Feel free to browse, download, or use them as inspiration.
   </a>
   </td>
 <td align="center">
+  <a href="Wallpapers/0246.jpg">
+    <img src="Wallpapers/0246.jpg" width="300">
+  </a>
+  </td>
+<td align="center">
   <a href="Wallpapers/0247.jpg">
     <img src="Wallpapers/0247.jpg" width="300">
+  </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
+  <a href="Wallpapers/0249.jpg">
+    <img src="Wallpapers/0249.jpg" width="300">
+  </a>
+  </td>
+<td align="center">
+  <a href="Wallpapers/0251.jpg">
+    <img src="Wallpapers/0251.jpg" width="300">
   </a>
   </td>
 <td align="center">
@@ -428,6 +445,23 @@ Feel free to browse, download, or use them as inspiration.
 <td align="center">
   <a href="Wallpapers/0246.png">
     <img src="Wallpapers/0246.png" width="300">
+  </a>
+  </td>
+<td align="center">
+  <a href="Wallpapers/0247.png">
+    <img src="Wallpapers/0247.png" width="300">
+  </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
+  <a href="Wallpapers/0248.png">
+    <img src="Wallpapers/0248.png" width="300">
+  </a>
+  </td>
+<td align="center">
+  <a href="Wallpapers/0250.png">
+    <img src="Wallpapers/0250.png" width="300">
   </a>
   </td>
 </table>
