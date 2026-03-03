@@ -295,6 +295,23 @@ Feel free to browse, download, or use them as inspiration.
   </a>
   </td>
 <td align="center">
+  <a href="Wallpapers/0386.jpg">
+    <img src="Wallpapers/0386.jpg" width="300">
+  </a>
+  </td>
+</tr>
+<tr>
+<td align="center">
+  <a href="Wallpapers/0387.jpg">
+    <img src="Wallpapers/0387.jpg" width="300">
+  </a>
+  </td>
+<td align="center">
+  <a href="Wallpapers/0388.jpg">
+    <img src="Wallpapers/0388.jpg" width="300">
+  </a>
+  </td>
+<td align="center">
   <a href="Wallpapers/0133.jpeg">
     <img src="Wallpapers/0133.jpeg" width="300">
   </a>
