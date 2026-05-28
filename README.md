@@ -676,6 +676,11 @@ Feel free to browse, download, or use them as inspiration.
 </tr>
 <tr>
 <td align="center">
+  <a href="Wallpapers/0253.png">
+    <img src="Wallpapers/0253.png" width="300">
+  </a>
+  </td>
+<td align="center">
   <a href="Wallpapers/0379.png">
     <img src="Wallpapers/0379.png" width="300">
   </a>
@@ -685,13 +690,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0381.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0382.png">
     <img src="Wallpapers/0382.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0385.png">
     <img src="Wallpapers/0385.png" width="300">
@@ -702,13 +707,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0390.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0391.png">
     <img src="Wallpapers/0391.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0392.png">
     <img src="Wallpapers/0392.png" width="300">
@@ -719,13 +724,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0393.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0394.png">
     <img src="Wallpapers/0394.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0395.png">
     <img src="Wallpapers/0395.png" width="300">
@@ -736,13 +741,13 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0396.png" width="300">
   </a>
   </td>
+</tr>
+<tr>
 <td align="center">
   <a href="Wallpapers/0401.png">
     <img src="Wallpapers/0401.png" width="300">
   </a>
   </td>
-</tr>
-<tr>
 <td align="center">
   <a href="Wallpapers/0404.png">
     <img src="Wallpapers/0404.png" width="300">
@@ -753,6 +758,7 @@ Feel free to browse, download, or use them as inspiration.
     <img src="Wallpapers/0406.png" width="300">
   </a>
   </td>
+</tr>
 </table>
 <!-- WALLPAPER_PREVIEW_END -->
 
